@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://ecdc-us.com/</loc><priority>1.0</priority></url>
+  <url><loc>https://ecdc-us.com/services.html</loc><priority>0.9</priority></url>
+  <url><loc>https://ecdc-us.com/portfolio.html</loc><priority>0.8</priority></url>
+  <url><loc>https://ecdc-us.com/hurricane-resistant.html</loc><priority>0.9</priority></url>
+  <url><loc>https://ecdc-us.com/about.html</loc><priority>0.7</priority></url>
+  <url><loc>https://ecdc-us.com/contact.html</loc><priority>0.9</priority></url>
+  <url><loc>https://ecdc-us.com/projects/senor-frogs.html</loc><priority>0.6</priority></url>
+  <url><loc>https://ecdc-us.com/projects/chevron-station.html</loc><priority>0.6</priority></url>
+  <url><loc>https://ecdc-us.com/projects/custom-home.html</loc><priority>0.6</priority></url>
+</urlset>
