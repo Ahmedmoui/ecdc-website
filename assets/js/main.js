@@ -11,12 +11,16 @@
     function closeNav() {
       nav.classList.remove("open");
       if (backdrop) backdrop.classList.remove("open");
+      document.body.classList.remove("nav-open");
       toggle.setAttribute("aria-expanded", "false");
+      toggle.setAttribute("aria-label", "Open menu");
     }
     toggle.addEventListener("click", function () {
       var open = nav.classList.toggle("open");
       if (backdrop) backdrop.classList.toggle("open", open);
+      document.body.classList.toggle("nav-open", open);
       toggle.setAttribute("aria-expanded", open ? "true" : "false");
+      toggle.setAttribute("aria-label", open ? "Close menu" : "Open menu");
     });
     if (backdrop) backdrop.addEventListener("click", closeNav);
     nav.addEventListener("click", function (e) {
