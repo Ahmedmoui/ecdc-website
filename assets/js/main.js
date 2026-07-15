@@ -149,6 +149,11 @@
       });
       return ok;
     }
+    var submitBtn = form.querySelector("[type=submit]");
+    // AJAX submit: post to Formspree, then redirect to our own thank-you page.
+    // This keeps the custom thank-you redirect working on Formspree's free plan
+    // (their _next redirect is a paid feature). Falls back to a normal POST if
+    // fetch is unavailable.
     form.addEventListener("submit", function (e) {
       if (!validate()) {
         e.preventDefault();
@@ -158,6 +163,33 @@
         }
         return;
       }
+      if (!window.fetch || !window.FormData) return; // no-JS/old-browser fallback: normal POST
+      e.preventDefault();
+      if (submitBtn) submitBtn.disabled = true;
+      if (status) {
+        status.className = "form-status show";
+        status.textContent = "Sending your request…";
+      }
+      fetch(form.action, {
+        method: "POST",
+        body: new FormData(form),
+        headers: { "Accept": "application/json" }
+      }).then(function (res) {
+        if (res.ok) {
+          window.location.href = "thank-you.html";
+        } else {
+          return res.json().then(function (data) {
+            var msg = (data && data.errors && data.errors.map(function (x) { return x.message; }).join(", ")) || "";
+            throw new Error(msg);
+          });
+        }
+      }).catch(function () {
+        if (submitBtn) submitBtn.disabled = false;
+        if (status) {
+          status.className = "form-status bad show";
+          status.textContent = "Sorry — your request couldn't be sent. Please call (850) 914-0050 or try again.";
+        }
+      });
     });
     form.querySelectorAll("[data-required]").forEach(function (input) {
       input.addEventListener("blur", function () {
