@@ -1,0 +1,104 @@
+# ECDC — Energy Conscious Design & Construction
+
+> ECDC (Energy Conscious Design & Construction, Inc.) is an engineer-led design-build firm in Panama City, Florida, serving Bay County and the wider Florida Panhandle since 2003. A single licensed Professional Engineer (P.E.) who is also a licensed General Contractor designs, engineers, and builds every project — commercial buildings, custom homes, and hurricane-resistant, energy-conscious construction.
+
+This is the full-content companion to https://ecdc-us.com/llms.txt. It inlines the substance of ECDC's main pages so an AI system can understand the business in a single fetch.
+
+## About ECDC
+
+ECDC is unusual in the construction industry: the same firm that seals the engineering drawings also builds the project. This "engineer-builder" model means design intent, structural engineering, and construction all come from one accountable source — reducing handoffs, change orders, and surprises during inspection.
+
+**Principal — Dr. AbdelRaouf "Raouf" Arafa, P.E.** Credentials: Ph.D. Engineering, Licensed Professional Engineer, Licensed General Contractor, and green-building educator. Dr. Arafa is a Ph.D. professional engineer who is also a licensed general contractor: he designs the structure, seals the drawings, and then builds the project, so engineering rigor never gets diluted between the office and the job site. He also teaches short professional courses in green building design for engineers, architects, and contractors. Clients work directly with the person responsible for their building — from the first site walk to the final inspection.
+
+**History.** Energy Conscious Design & Construction, Inc. was incorporated in Florida in 2003, decades before "green building" was a selling point. The name was a statement of method: buildings should be designed to consume less energy from the first sketch, and built to withstand the climate they live in. Over twenty years later, ECDC has delivered ground-up commercial projects for brands like Chevron and Señor Frog's, custom coastal homes across the Panhandle, and post-storm rebuilds that put Bay County back to work after Hurricane Michael.
+
+**Philosophy: Punctual. On-budget. Environmentally responsible.** Schedules are engineered realistically and then honored. Budgets are protected by getting the drawings right before the first crew arrives. Every design decision weighs the energy the building will use for the next fifty years.
+
+## Why an engineer-led builder
+
+- **One accountable expert** — Design, structural engineering, and construction come from a single firm led by a Ph.D. Professional Engineer: fewer handoffs, tighter drawings, and one point of responsibility from first sketch to final walkthrough.
+- **Built for the Gulf Coast** — ECDC engineers to the Florida Panhandle's high-velocity wind loads and details continuous load paths from roof to foundation. ICF walls, engineered connections, and impact-rated openings are standard, not upsells.
+- **Energy conscious by design** — Lower utility bills start with the design: solar orientation, high-performance insulation and glazing, and efficient envelopes so buildings stay comfortable and cost less to run for decades.
+
+## Services
+
+### Design & Engineering
+Every successful project starts with drawings that hold up — to the permit office and to the realities of the site. As a Ph.D. Professional Engineer, the principal prepares and seals the civil and structural documents a project needs, then builds from them. Deliverables:
+- Site plans, parking & circulation design
+- Utility, grading & stormwater / drainage plans
+- Structural engineering & sealed permit drawings
+- Wind-load & load-path engineering for the Panhandle
+- Plan review, permitting & agency coordination
+
+### Commercial Construction
+ECDC builds the commercial projects that keep the Gulf Coast running — fuel stations, restaurants, and retail — for national and regional brands, coordinating the specialized trades and approvals these buildings demand, from fuel-system and canopy work to health-department and life-safety requirements. Scope:
+- Ground-up fuel stations, restaurants & retail
+- Sitework, foundations & canopy structures
+- Tenant build-outs & commercial remodels
+- Trade coordination, scheduling & inspections
+- Post-storm commercial rebuilds
+
+### Custom Homes & Major Remodels
+Design-build custom homes engineered for the coast — including elevated and piling construction for flood and storm-surge zones — plus major renovations. The building envelope is treated as a system: continuous insulation, glazing chosen for orientation, and detailing that keeps conditioned air in and Panhandle humidity out. Clients can elect ICF exterior walls for hurricane resistance and a quieter, more efficient home.
+
+### Energy-Conscious Systems
+Insulated Concrete Form (ICF) construction, passive solar orientation, high-performance insulation and glazing, geothermal readiness, and rainwater strategies that lower long-term operating costs.
+
+### Professional Training
+Short courses in green-building design and optimal energy systems for engineers, architects, and contractors.
+
+## Hurricane-Resistant Construction
+
+On the Gulf Coast, resilience is the baseline, not a luxury. In October 2018, Hurricane Michael made landfall near Panama City as one of the strongest storms ever to hit the continental United States, and Bay County saw which buildings held and which didn't — the difference usually came down to engineering. ECDC builds new and rebuilds with that lesson baked in.
+
+Four things that decide whether a building survives:
+1. **Wind-load engineering** — The Panhandle sits in a high-velocity wind zone. ECDC calculates the actual wind pressures a building will face on walls, roof, and every opening, and engineers the structure and connections to resist them.
+2. **ICF construction** — Insulated Concrete Forms are foam blocks stacked like giant bricks, reinforced with steel and filled with concrete: a solid, steel-reinforced concrete wall wrapped in continuous insulation that resists wind and flying debris while cutting energy loss.
+3. **High-impact glazing** — Impact-rated windows and doors keep the envelope sealed; once an opening fails, wind pressurizes the building and can lift the roof.
+4. **Roof-to-foundation load paths** — Straps, ties, anchors, and connections tie roof, walls, and foundation into one continuous chain so uplift and lateral forces travel into the ground instead of tearing the structure apart.
+
+Because the engineer is also the builder, the connections that provide storm resistance — the strap tying a rafter to the wall, the anchor fastening a sill to concrete, the rebar schedule inside an ICF wall — are both designed and installed by the same accountable team.
+
+## Frequently Asked Questions
+
+**Do you handle permits?** Yes. As a licensed Professional Engineer and General Contractor, ECDC prepares sealed drawings, submits for permits, and coordinates with local building departments and reviewing agencies through inspections and certificate of occupancy.
+
+**What is ICF construction?** ICF stands for Insulated Concrete Forms — hollow rigid-foam blocks that stack like bricks, are reinforced with steel, and filled with concrete. The result is a solid, steel-reinforced concrete wall sandwiched in continuous insulation: strong against hurricane wind and debris, quiet, and highly energy efficient.
+
+**Do you build on my lot?** Yes. ECDC builds custom homes and commercial buildings on your lot, including coastal and elevated sites, and can evaluate the site, engineer an appropriate foundation for its soil and flood zone, and design a building suited to its wind exposure.
+
+**What does design-build mean?** One firm is responsible for both design and construction. At ECDC a licensed engineer designs and engineers the project and then builds it — fewer handoffs, tighter coordination, and a single point of accountability from concept to completion.
+
+**Do you do both commercial and residential work?** Yes — ground-up commercial construction such as fuel stations, restaurants, and retail, as well as custom homes and major residential remodels.
+
+**What areas do you serve?** Panama City, Panama City Beach, Lynn Haven, all of Bay County, and the surrounding Florida Panhandle.
+
+## Selected Projects
+
+- **Señor Frog's, Panama City Beach** — A high-energy beachfront restaurant for an international hospitality brand, built directly on the Gulf. Engineered for the coastal wind zone with corrosion-resistant detailing for the salt-air environment, plus commercial kitchen, egress, and hospitality finishes built to survive sand, salt, and heavy traffic.
+- **Chevron Fuel Station** — A full-service fuel station: convenience retail, car wash, and a multi-island fueling plaza under a branded canopy. Delivered as general contractor from raw sitework through certificate of occupancy, including canopy foundations engineered for wind uplift, site grading and drainage, and fuel-system coordination.
+- **Coastal Custom Homes** — Multi-story custom homes engineered for the Gulf Coast, including elevated construction on engineered pilings that lifts living space above the flood plain and lets storm surge pass underneath, with energy-conscious envelopes and optional ICF walls.
+
+## Service Area
+
+Headquartered in Panama City, ECDC works throughout Bay County and the surrounding Panhandle, and knows the local wind zones, flood zones, soils, and permit offices. Areas served include: Panama City, Panama City Beach, Lynn Haven, Callaway, Springfield, Parker, Mexico Beach, Youngstown, all of Bay County, Walton County, Gulf County, and the wider Florida Panhandle.
+
+## Contact
+
+- Phone: (850) 914-0050
+- Address: 2108 W 33rd St, Panama City, FL 32405
+- Website: https://ecdc-us.com
+- Request a quote: https://ecdc-us.com/contact.html
+- Business hours: Monday–Friday, 9:00 AM – 5:00 PM (Central Time)
+- ECDC typically responds to quote requests within one business day.
+
+## Company Facts
+
+- Legal name: Energy Conscious Design & Construction, Inc. (ECDC)
+- Founded: 2003
+- Principal: Dr. AbdelRaouf "Raouf" Arafa, Ph.D., P.E.
+- Florida Professional Engineer license: PE51761
+- Florida General Contractor license: CGC060863
+- Industry: General contractor, structural/civil engineering, design-build construction
+- Notable clients/projects: Chevron, Señor Frog's (Panama City Beach), coastal custom homes, post-Hurricane-Michael rebuilds
+- Affiliate: EGS-Plan USA, LLC

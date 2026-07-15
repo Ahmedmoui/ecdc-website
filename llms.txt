@@ -4,6 +4,8 @@
 
 ECDC is unusual in the construction industry: the same firm that seals the engineering drawings also builds the project. Principal Dr. AbdelRaouf "Raouf" Arafa holds a Ph.D. in engineering, is a licensed Florida Professional Engineer (P.E. #PE51761), and a licensed General Contractor (CGC #CGC060863). This "engineer-builder" model means design intent, structural engineering, and construction all come from one accountable source, reducing handoffs, change orders, and surprises during inspection.
 
+A full-content version of this file — with the complete text of every key page, plus the hurricane-construction FAQ and project case studies — is available at https://ecdc-us.com/llms-full.txt.
+
 ## Services
 
 - **Design & Engineering** — Civil and site-plan design: parking and circulation layouts, utility routing, stormwater and drainage design, grading, structural engineering, and sealed, permit-ready drawing sets. Includes wind-load and continuous-load-path engineering for the Florida Panhandle.
